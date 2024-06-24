@@ -7,6 +7,7 @@ It supports all Paper Versions that exists.
 
 
 # Requirements
+The Script currently only works on Linux.
 jq, wget and curl are required for the script to run. You can install them with
 `sudo apt install jq wget curl -y`
 
@@ -25,6 +26,7 @@ To update multiple Servers at once, separate the Servers with a comma, with no s
 ## Future Updates
 
 - [x] Add an Option to update Bungeecord
+- [ ] Add Support for Windows
 - [ ] Optimize the script
 - [ ] Add an FTP/SFTP Option
 - [ ] Add an Option to update Spigot
